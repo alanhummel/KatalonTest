@@ -19,5 +19,7 @@ WebUI.navigateToUrl('https://www.tarion.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Tarion.com Landing Page  Tario/a_About'))
 
+WebUI.back()
+
 WebUI.closeBrowser()
 
